@@ -1,0 +1,30 @@
+22/02/2023 18:48:23 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:48:23 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:48:23 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 18:53:42 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:53:42 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:53:42 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 18:54:21 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:54:21 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:54:21 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 18:54:26 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:54:26 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:54:26 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 18:54:54 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:54:54 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:54:54 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 18:55:04 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:55:04 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:55:04 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 18:55:36 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:55:36 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:55:36 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 18:56:05 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:56:05 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:56:05 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 18:56:31 - root - DEBUG -  Recieved numbers: a 6 and b 7
+22/02/2023 18:56:31 - root - DEBUG -  Recieved numbers: a 6 and b 8
+22/02/2023 18:56:31 - root - CRITICAL - Had to stop device due to unexpected stop event
+22/02/2023 19:15:23 - root - INFO - Client entered Dovydas berniukas it's data type<class 'str'>
+22/02/2023 19:15:23 - root - INFO - Client entered 150.157 it's data type<class 'float'>
+22/02/2023 19:15:23 - root - INFO - Client entered 15 it's data type<class 'int'>

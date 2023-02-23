@@ -1,0 +1,9 @@
+22/02/2023 19:16:12 - root - INFO - Client entered Dovydas zmogeliukas it's data type<class 'str'>
+22/02/2023 19:16:12 - root - INFO - Client entered 15.5 it's data type<class 'float'>
+22/02/2023 19:16:12 - root - INFO - Client entered 15 it's data type<class 'int'>
+22/02/2023 19:19:03 - root - INFO - Client entered Dovydas zmogus it's data type<class 'str'>
+22/02/2023 19:19:03 - root - INFO - Client entered 15.75 it's data type<class 'float'>
+22/02/2023 19:19:03 - root - INFO - Client entered 15 it's data type<class 'int'>
+22/02/2023 19:19:34 - root - INFO - Client entered Dovydas geras it's data type <class 'str'>
+22/02/2023 19:19:34 - root - INFO - Client entered 15.15 it's data type <class 'float'>
+22/02/2023 19:19:34 - root - INFO - Client entered 2222222 it's data type <class 'int'>

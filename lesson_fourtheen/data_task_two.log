@@ -1,0 +1,25 @@
+22/02/2023 20:34:40 - root - INFO - This is imported list sample [1, 2, 3, 1, 5, 4, 5, 15, 1, 1, 3, 7, 8]
+22/02/2023 20:34:40 - root - INFO - This is how looks list found [2, 3, 1, 5, 4, 5, 15, 1, 1, 3, 7, 8, 1]
+22/02/2023 20:34:40 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 1, 1, 3, 7, 8, 1, 1]
+22/02/2023 20:34:40 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 1, 3, 7, 8, 1, 1, 1]
+22/02/2023 20:34:40 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 3, 7, 8, 1, 1, 1, 1]
+22/02/2023 20:34:40 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 3, 7, 8, 1, 1, 1, 1]
+22/02/2023 20:34:40 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 3, 7, 8, 1, 1, 1, 1]
+22/02/2023 20:34:40 - root - INFO - User entered: 1
+22/02/2023 20:41:00 - root - INFO - This is imported list sample 1
+22/02/2023 20:41:00 - root - ERROR - Entered value 'int' object is not iterable is not an integer
+22/02/2023 20:42:07 - root - INFO - This is imported list sample 1
+22/02/2023 20:42:24 - root - INFO - This is imported list sample 1
+22/02/2023 20:42:24 - root - ERROR - Entered value is not an list
+22/02/2023 20:44:53 - root - INFO - This is imported list sample 1
+22/02/2023 20:44:53 - root - ERROR - Client entered not a list1
+22/02/2023 20:44:53 - root - ERROR - Entered value is not a list
+22/02/2023 21:04:59 - root - INFO - This is imported list sample [1, 2, 3, 1, 5, 4, 5, 15, 1, 1, 3, 7, 8]
+22/02/2023 21:04:59 - root - ERROR - Client entered not a list[1, 2, 3, 1, 5, 4, 5, 15, 1, 1, 3, 7, 8]
+22/02/2023 21:04:59 - root - INFO - This is how looks list found [2, 3, 1, 5, 4, 5, 15, 1, 1, 3, 7, 8, 1]
+22/02/2023 21:04:59 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 1, 1, 3, 7, 8, 1, 1]
+22/02/2023 21:04:59 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 1, 3, 7, 8, 1, 1, 1]
+22/02/2023 21:04:59 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 3, 7, 8, 1, 1, 1, 1]
+22/02/2023 21:04:59 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 3, 7, 8, 1, 1, 1, 1]
+22/02/2023 21:04:59 - root - INFO - This is how looks list found [2, 3, 5, 4, 5, 15, 3, 7, 8, 1, 1, 1, 1]
+22/02/2023 21:04:59 - root - INFO - User entered: 1
